@@ -38,7 +38,9 @@ Implemented a g-trie–based graphlet census and parallelized graphlet enumerati
 ## Technologies
 
 **Languages:** Python, Clojure, Ruby, TypeScript, JavaScript, SQL, Go, C++
+
 **Backend & Data:** REST APIs, PostgreSQL, asynchronous processing, event-driven systems
+
 **Infrastructure:** Docker, Kubernetes, GitHub Actions, Jenkins, Linux, GCP
 
 ---
